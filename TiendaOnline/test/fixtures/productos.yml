@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  codproducto: MyString
+  descripcion: MyString
+  precio: 9.99
+  cliente: 
+
+two:
+  codproducto: MyString
+  descripcion: MyString
+  precio: 9.99
+  cliente: 
